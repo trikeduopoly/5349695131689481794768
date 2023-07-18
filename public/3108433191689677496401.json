@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383178023813",
+    "project_id": "skibidi-toilet-skins-craft",
+    "storage_bucket": "skibidi-toilet-skins-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383178023813:android:21b4ca8bc5058e0f3c5aec",
+        "android_client_info": {
+          "package_name": "com.skibiditoilethorrorgamemultiplayer.skinsforminecraftUtamiDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383178023813-s0q3skdni05nnmr0ud0f9dlitfbhrint.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Rr71P86TyXtEyNMCMc-NTHiFj43L_VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383178023813-s0q3skdni05nnmr0ud0f9dlitfbhrint.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
